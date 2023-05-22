@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning HTML and JS
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me @vitoriavalen__
+- 📫 How to reach me @vitoriatheofficial
 
 <!---
 vitoriavalenca/vitoriavalenca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
