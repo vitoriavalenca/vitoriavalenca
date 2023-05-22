@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitoriavalenca
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning HTML and JS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me @vitoriatheofficial
 
