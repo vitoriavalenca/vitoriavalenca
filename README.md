@@ -1,22 +1,62 @@
-# Vitória Valença
-Computer Science @ UBEC<br> ◆ Building systems—smart, secure, efficient.<br> ◆ AI, cybersecurity, embedded tech & web development.<br> ◆ Always optimizing. Always evolving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=𝐕𝐢𝐭𝐨́𝐫𝐢𝐚+𝐂𝐚𝐞𝐭𝐚𝐧𝐨+𝐕𝐚𝐥𝐞𝐧𝐜̧𝐚;Computer+Science+Student;&center=true&size=22">
+</p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI3eG5vOW4xbGM1cW4zdDZ1ZXlhZzVtZWNsZHR2Z3J0Y2trNm95ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" alt="Description">
+</p>
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/tKvaXwEz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/vitoriacvalenca/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vitoriavalenca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@vitoriacaetanov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitoriacaetanocontato@gmail.com) 
+<p align="center">
+  <a href="https://discord.com/invite/tKvaXwEz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://instagram.com/vitoriacvalenca" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1E2AD2?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/vitoriavalenca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E2AD2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@vitoriacaetanov" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-1E2AD2?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="mailto:vitoriacaetanocontato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E2AD2?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 ## Stacks:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-## Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavalenca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-1E2AD2?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-1E2AD2?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-1E2AD2?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-1E2AD2?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1E2AD2?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-1E2AD2?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-1E2AD2?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-1E2AD2?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-1E2AD2?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/React-1E2AD2?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-1E2AD2?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-1E2AD2?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-1E2AD2?style=for-the-badge&logo=Canva&logoColor=white">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=vitoriavalenca&icon=2&color=12)](https://visitcount.itsvg.in)
+##
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vitoriavalenca&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
+  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=vitoriavalenca&theme=algolia&hide_border=false">
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriavalenca&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+
+
 
 
 <!---
