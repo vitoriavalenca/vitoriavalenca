@@ -1,10 +1,11 @@
-# Vitória Caetano Valença  
+# Vitória Valença  
 
-🎓 Estudante de Ciência da Computação | UBEC  
-💡 Explorando tecnologia, computação embarcada e segurança cibernética  
-🚀 Interesse em IA e Desenvolvimento Web 
+Computer Science @ UBEC
+🔹 Building systems—smart, secure, efficient.
+🔹 AI, cybersecurity, embedded tech & web development.
+🔹 Always optimizing. Always evolving.
 
-### Atualmente aprendendo  
+### Currently Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitoria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
