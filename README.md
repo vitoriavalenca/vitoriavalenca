@@ -26,7 +26,7 @@
 </p>
 
 
-## Stacks:
+## Currently Learning:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-1E2AD2?style=for-the-badge&logo=csharp&logoColor=white">
