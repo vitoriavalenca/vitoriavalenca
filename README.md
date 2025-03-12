@@ -29,19 +29,10 @@
 ## Currently Learning:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-1E2AD2?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1E2AD2?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-1E2AD2?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-1E2AD2?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1E2AD2?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-1E2AD2?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Python-1E2AD2?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-1E2AD2?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-1E2AD2?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/React-1E2AD2?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-1E2AD2?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-1E2AD2?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-1E2AD2?style=for-the-badge&logo=Canva&logoColor=white">
 </p>
 
 ##
